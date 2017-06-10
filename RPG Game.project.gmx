@@ -39,7 +39,7 @@
     <rtf>help.rtf</rtf>
   </help>
   <TutorialState>
-    <IsTutorial>0</IsTutorial>
+    <IsTutorial>-1</IsTutorial>
     <TutorialName>C:\Users\Abo Saqer\AppData\Local\gamemaker_studio\Tutorials\My_First_Game</TutorialName>
     <TutorialPage>2</TutorialPage>
   </TutorialState>
